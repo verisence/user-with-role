@@ -1,0 +1,5 @@
+REDIR TOO MANY TIMES
+https://stackoverflow.com/questions/63070050/laravel-redirected-you-too-many-times-error
+
+TUT
+https://dev.to/kaperskyguru/multiple-role-based-authentication-in-laravel-30pc
